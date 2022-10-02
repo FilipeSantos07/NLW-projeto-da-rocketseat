@@ -16,4 +16,4 @@ Projeto desenvolvido no evento Next Level Week (NLW) da Rocketseat. Aprendi muit
 
 ## 💛 Contato
 
-outerspaceguy@live.co.uk
+FilipeSantosEstudos1@gmail.com
